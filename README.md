@@ -1,103 +1,104 @@
-# Blinkit Grocery Dashboard – Power BI Project
+# 🛒 Blinkit Sales Dashboard | Power BI, Excel, SQL
 
-This Power BI project visualizes fictional retail and outlet data for Blinkit, a fast-moving consumer goods delivery platform. The dashboard is built to provide insights into item sales, outlet performance, outlet types, and customer trends across different store tiers and regions.
-
-All data used in this project is fictional and was self-created to demonstrate Power BI, DAX, and SQL capabilities.
+A retail analytics project simulating Blinkit’s grocery sales and outlet performance using fictional data. This Power BI dashboard brings together deep insights into product trends, store types, and regional behavior—designed to showcase my skills in data analysis, storytelling, and dashboard design.
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
-The Blinkit Dashboard focuses on understanding product-wise sales trends, outlet establishment over time, store tier performance, and fat content classification for grocery items. The goal is to simulate how a grocery delivery business like Blinkit can track its sales and outlet strategy across locations and item types.
+This project is a complete end-to-end simulation of how a grocery delivery company like Blinkit can track sales performance and outlet strategy across different regions and product categories. The goal is to derive meaningful business insights using **Power BI**, **Excel**, and **DAX**.
 
-The data was cleaned and processed using Microsoft Excel, modeled within Power BI, and enhanced using DAX formulas for calculated metrics and aggregations.
-
----
-
-## Project Tasks and Responsibilities
-
-- Created fictional grocery retail dataset for analysis
-- Cleaned and transformed data using Microsoft Excel
-- Built the data model and relationships in Power BI
-- Developed an interactive dashboard for analysis
-- Wrote custom DAX calculations for KPIs and visuals
-- Applied visual hierarchy and slicers for exploration
-- Prepared a PDF report and PBIX for sharing
+> 🔹 Data is fictional and self-created to demonstrate core analytical and visualization capabilities.
 
 ---
 
-## Key Features
+## 💼 My Role & Responsibilities
 
-- Total and average sales KPIs
-- Number of items and average product ratings
-- Outlet establishment trends over time
-- Sales by outlet size and location (Tier 1/2/3)
-- Product-level sales comparison
-- Fat content breakdown (Low Fat, Regular, LF-reg)
-- Outlet performance by type (Grocery, Supermarket Type 1/2/3)
-- Item visibility, average ratings, and category segmentation
+- 🧾 Designed and generated a mock grocery retail dataset  
+- 📊 Cleaned and pre-processed data using Microsoft Excel  
+- 🧠 Modeled relationships and hierarchies in Power BI  
+- 🛠 Built an interactive dashboard with slicers, KPIs & custom visuals  
+- 🧮 Wrote DAX measures for custom metrics and performance tracking  
+- 📄 Created PDF and PNG dashboard reports for easy sharing  
 
 ---
 
-## Tools and Technologies Used
+## 📈 Key Features
 
-- Power BI Desktop – Data modeling and dashboard creation  
-- Microsoft Excel – Data cleaning and transformation  
-- DAX – Custom calculations and measures  
-
----
-
-## Insights Discovered
-
-- Supermarket Type 1 generated the highest total sales (~$788K) with the most items sold.
-- Grocery stores had the highest item visibility per product.
-- Tier 3 outlets contribute the most sales among outlet tiers.
-- Low Fat products accounted for 61% of total sales.
-- Most outlets were established between 2014 and 2020, with peak growth in 2018.
+- 🔹 **Total & Average Sales**, Number of Items Sold, Avg. Ratings  
+- 🔹 **Outlet Sales by Tier** (Tier 1, Tier 2, Tier 3)  
+- 🔹 **Outlet Type Analysis** – Grocery vs Supermarket (Type 1/2/3)  
+- 🔹 **Fat Content Sales Breakdown** – Low Fat, Regular, LF-reg  
+- 🔹 **Item Visibility vs Sales** – identifying underperforming items  
+- 🔹 **Outlet Establishment Trend** – new stores over the years  
+- 🔹 📊 Clean visual hierarchy for intuitive exploration  
 
 ---
 
-## Future Improvements
+## 🧰 Tools & Technologies
 
-- Add time-based trend filters (monthly/quarterly)
-- Include customer segmentation and delivery speed analysis
-- Track inventory performance and reorder patterns
-- Integrate real-time outlet feedback and satisfaction ratings
-
----
-
-## Project Files
-
-- `blinkit grocery data.pbix` – Power BI dashboard file  
-- `BlinkIT Grocery Data.xlsx` – Source dataset used for modeling  
-- `Blinkit dashboard pdf.pdf` – Printable version of dashboard views  
-- `images/` – Screenshots of the dashboard for GitHub preview
+| Tool            | Purpose                          |
+|-----------------|----------------------------------|
+| **Power BI**    | Dashboard, Modeling, DAX         |
+| **Excel**       | Data Cleaning & Preparation      |
+| **DAX**         | Custom Calculations & KPIs       |
+| **SQL**         | Data Understanding & Querying    |
 
 ---
 
-## Dashboard Preview
-<img width="1920" height="1080" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/311cb552-6216-4da1-936e-fb56ffa68ced" />
+## 🔍 Key Insights
 
-<img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/85098f73-7b88-46ce-a515-b0871997c06a" />
-<img width="1920" height="1080" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/81838756-3a42-4849-881f-a3db3178e3f2" />
+- 🏪 **Supermarket Type 1** contributed the highest sales (~$788K)  
+- 🏙 **Tier 3** cities drove the highest revenue among all regions  
+- 🧃 **Low Fat items** made up 61% of all grocery sales  
+- 👀 Grocery outlets had the highest item visibility  
+- 🗓 Most outlets were established between 2014–2020, peaking in 2018  
+
+---
+
+## 🚀 Future Enhancements
+
+- ⏱ Add time-based trend filters (monthly/quarterly)  
+- 👥 Segment customers by behavior or region  
+- 📦 Analyze inventory levels and reorder triggers  
+- 💬 Add real-time feedback scores per outlet  
+
+---
+
+## 📂 Project Files
+
+- `Blinkit Grocery Data.xlsx` – Dataset  
+- `blinkit_grocery_dashboard.pbix` – Power BI file  
+- `dashboard_preview.pdf` – Printable report  
+- `/images` – Screenshots for preview  
+
+---
+
+## 🖼️ Dashboard Snapshots
 
 
+<img width="1920" height="1080" alt="Dashboard preview" src="https://github.com/user-attachments/assets/84b563a7-d2bf-4a2e-b3fc-07cf2f1592c9" />
 
+<img width="1920" height="1080" alt="Sales" src="https://github.com/user-attachments/assets/eddfab3a-e5c2-455e-986e-cf88d6a0f75d" />
 
+<img width="1920" height="1080" alt="Outlet sales" src="https://github.com/user-attachments/assets/7e0b9ab3-f3d3-4013-82df-0e2fdd0aa0b5" />
 
-## Contact
+|
 
-Feel free to connect for feedback, collaboration, or project discussion:
+---
 
-GitHub: [https://github.com/SurajSinghhh]
-Email: atsurajsingh@gmail.com
-Phone: +91 7004171398
-LinkedIn: [Suraj Singh] (https://www.linkedin.com/in/suraj-singh-33b287377/)
-  
+## 📬 Contact Me
 
+If you’d like to connect or give feedback:
 
+- 🔗 GitHub: [github.com/SurajSinghhh](https://github.com/SurajSinghhh)  
+- 💼 LinkedIn: [Suraj Singh](https://www.linkedin.com/in/suraj-singh-33b287377/)  
+- 📧 Email: atsurajsingh@gmail.com  
+- 📱 Phone: +91 7004171398
 
+---
 
+### 🔍 Looking for Data Analyst Roles
 
-- Phone: +91 7004171398  
-- LinkedIn: [Suraj Singh](https://www.linkedin.com/in/suraj-singh-33b287377/)
+I'm currently exploring **Data Analyst opportunities** where I can contribute with analytical insights, data visualization, and strong business sense. If this project resonates with you, I'd love to connect!
+
